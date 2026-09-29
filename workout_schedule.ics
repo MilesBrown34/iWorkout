@@ -1,0 +1,1465 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Antigravity//Custom Workout Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Workout Routine (A/B Full Body)
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:workout-a-20260930T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20260930T070000
+DTEND:20260930T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261002T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261002T070000
+DTEND:20261002T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261005T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261005T070000
+DTEND:20261005T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261007T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261007T070000
+DTEND:20261007T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261009T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261009T070000
+DTEND:20261009T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261012T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261012T070000
+DTEND:20261012T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261014T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261014T070000
+DTEND:20261014T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261016T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261016T070000
+DTEND:20261016T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261019T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261019T070000
+DTEND:20261019T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261021T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261021T070000
+DTEND:20261021T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261023T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261023T070000
+DTEND:20261023T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261026T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261026T070000
+DTEND:20261026T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261028T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261028T070000
+DTEND:20261028T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261030T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261030T070000
+DTEND:20261030T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261102T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261102T070000
+DTEND:20261102T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261104T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261104T070000
+DTEND:20261104T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261106T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261106T070000
+DTEND:20261106T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261109T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261109T070000
+DTEND:20261109T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261111T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261111T070000
+DTEND:20261111T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261113T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261113T070000
+DTEND:20261113T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261116T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261116T070000
+DTEND:20261116T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261118T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261118T070000
+DTEND:20261118T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261120T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261120T070000
+DTEND:20261120T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261123T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261123T070000
+DTEND:20261123T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261125T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261125T070000
+DTEND:20261125T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261127T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261127T070000
+DTEND:20261127T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261130T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261130T070000
+DTEND:20261130T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261202T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261202T070000
+DTEND:20261202T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261204T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261204T070000
+DTEND:20261204T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261207T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261207T070000
+DTEND:20261207T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261209T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261209T070000
+DTEND:20261209T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261211T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261211T070000
+DTEND:20261211T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261214T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261214T070000
+DTEND:20261214T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261216T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261216T070000
+DTEND:20261216T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261218T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261218T070000
+DTEND:20261218T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261221T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261221T070000
+DTEND:20261221T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261223T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261223T070000
+DTEND:20261223T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261225T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261225T070000
+DTEND:20261225T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20261228T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261228T070000
+DTEND:20261228T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20261230T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20261230T070000
+DTEND:20261230T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270101T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270101T070000
+DTEND:20270101T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20270104T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270104T070000
+DTEND:20270104T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270106T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270106T070000
+DTEND:20270106T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20270108T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270108T070000
+DTEND:20270108T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270111T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270111T070000
+DTEND:20270111T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20270113T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270113T070000
+DTEND:20270113T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270115T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270115T070000
+DTEND:20270115T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20270118T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270118T070000
+DTEND:20270118T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270120T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270120T070000
+DTEND:20270120T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20270122T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270122T070000
+DTEND:20270122T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270125T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270125T070000
+DTEND:20270125T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-b-20270127T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270127T070000
+DTEND:20270127T081500
+SUMMARY:Workout B: Deadlift & Vertical Focus
+DESCRIPTION:==============================\nWORKOUT B: HINGE & VERTICAL FOC
+ US\n==============================\n\n[WARM-UP (3-5 min)]\n- World's Great
+ est Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 
+ reps\n\n[MAIN EXERCISES]\n1. Conventional Barbell Deadlift\n   * 3 sets x 
+ 5 reps | Rest: 2-3 min\n   * 2-3 ramp-up sets\; pull from dead stop\; rese
+ t brace each rep\n\n2. Standing Overhead Press (Barbell or DB)\n   * 3 set
+ s x 6-8 reps | Rest: 2 min\n   * 1 feeler set\; squeeze glutes & brace cor
+ e tightly\n\n3. Neutral-Grip Lat Pulldown\n   * 3 sets x 8-10 reps | Rest:
+  90 sec\n   * Full stretch\; elbow-friendly alternative to 245 lb pull-ups
+ \n\n4. Incline DB Bench Press (30 deg angle)\n   * 3 sets x 8-10 reps | Re
+ st: 90 sec\n   * Upper chest focus\; control 2-3s negative\n\n5. Leg Press
+  or Bulgarian Split Squats\n   * 3 sets x 10-12 reps | Rest: 90 sec\n   * 
+ Quad finisher with zero axial spinal compression\n\n6. Cable Face Pulls\n 
+   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Shoulder joint longevity & ro
+ tator cuff stability\n\n7. Hammer Curls\n   * 2 sets x 10-12 reps | Rest: 
+ 60 sec\n   * Strict form\; protects forearms for drumming days\n\n8. Decli
+ ne or Cable Crunches\n   * 3 sets x 15-20 reps | Rest: 60 sec\n   * Spine 
+ flexion focus\; 1-sec squeeze at contraction\n\n--------------------------
+ ----\nNutrition Target: ~190-210g protein | 3.5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:workout-a-20270129T070000@antigravity
+DTSTAMP:20260929T192600Z
+DTSTART:20270129T070000
+DTEND:20270129T081500
+SUMMARY:Workout A: Squat & Posterior Chain
+DESCRIPTION:==============================\nWORKOUT A: SQUAT & LOWER BACK\n
+ ==============================\n\n[WARM-UP (3-5 min)]\n- World's Greatest 
+ Stretch: 5/side\n- Deep Squat Hold: 30-45s\n- Band Pull-Aparts: 15-20 reps
+ \n\n[MAIN EXERCISES]\n1. Barbell Back Squats\n   * 3 sets x 6-8 reps | Res
+ t: 2-3 min\n   * 2-3 light ramp-up sets first\; focus on depth & hip drive
+ \n\n2. Flat Barbell or DB Bench Press\n   * 3 sets x 8-10 reps | Rest: 2 m
+ in\n   * 1 feeler set\; retract scapulae\, control eccentric\n\n3. Chest-S
+ upported Row (Incline DB or Machine)\n   * 3 sets x 8-10 reps | Rest: 90 s
+ ec\n   * Keeps lower back 100% fresh for RDLs\n\n4. Romanian Deadlifts (RD
+ Ls)\n   * 3 sets x 8-10 reps | Rest: 90 sec\n   * Heavy barbell or DB hing
+ e\; stretch glutes & hamstrings\n\n5. Weighted 45 deg Back Extensions (Rom
+ an Chair)\n   * 2-3 sets x 12-15 reps | Rest: 60-90 sec\n   * Direct lower
+  back hypertrophy\; squeeze glutes at top\n\n6. Hanging Knee / Leg Raises\
+ n   * 3 sets x 10-15 reps | Rest: 60 sec\n   * Strict form\; decompresses 
+ spine after heavy loads\n\n7. Cable Face Pulls\n   * 3 sets x 15-20 reps |
+  Rest: 60 sec\n   * High pulley to eye level\; external shoulder rotation\
+ n\n------------------------------\nNutrition Target: ~190-210g protein | 3
+ .5-4L water
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

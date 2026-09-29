@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Full-Body A/B Workout & Nutrition Plan</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --card-border: #334155;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent-blue: #38bdf8;
+      --accent-green: #4ade80;
+      --accent-amber: #fbbf24;
+      --accent-purple: #c084fc;
+      --tag-bg: #1e3a8a;
+      --tag-text: #93c5fd;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    body { background-color: var(--bg); color: var(--text); padding: 2rem 1rem; line-height: 1.6; }
+    .container { max-width: 1100px; margin: 0 auto; }
+    header { margin-bottom: 2rem; border-bottom: 1px solid var(--card-border); padding-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 1rem; }
+    h1 { font-size: 2.2rem; font-weight: 800; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .subtitle { color: var(--text-muted); font-size: 1.05rem; margin-top: 0.25rem; }
+    .profile-pill { display: inline-flex; gap: 0.75rem; background: #1e293b; padding: 0.5rem 1rem; border-radius: 9999px; border: 1px solid var(--card-border); font-size: 0.9rem; }
+    .profile-pill span { color: var(--accent-blue); font-weight: 600; }
+    
+    .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(480px, 1fr)); gap: 1.5rem; margin-bottom: 2rem; }
+    .card { background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 1.5rem; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; border-bottom: 1px solid #334155; padding-bottom: 0.75rem; }
+    .card-title { font-size: 1.35rem; font-weight: 700; color: #fff; }
+    .badge-a { background: #0369a1; color: #e0f2fe; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; }
+    .badge-b { background: #7c2d12; color: #ffedd5; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; }
+    
+    .warmup-box { background: rgba(56, 189, 248, 0.08); border-left: 4px solid var(--accent-blue); padding: 0.75rem 1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.9rem; }
+    .warmup-box strong { color: var(--accent-blue); }
+    
+    table { width: 100%; border-collapse: collapse; font-size: 0.92rem; text-align: left; }
+    th { background: #0f172a; color: var(--text-muted); padding: 0.6rem 0.75rem; font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--card-border); }
+    td { padding: 0.75rem 0.75rem; border-bottom: 1px solid #2d3748; }
+    tr:last-child td { border-bottom: none; }
+    .lift-name { font-weight: 600; color: #fff; }
+    .lift-note { display: block; font-size: 0.8rem; color: var(--text-muted); margin-top: 0.15rem; }
+    .metric-badge { background: #334155; padding: 0.15rem 0.45rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; }
+    
+    .nutrition-banner { background: linear-gradient(135deg, #1e293b, #0f172a); border: 1px solid var(--card-border); border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; justify-content: space-around; }
+    .nutrition-item { text-align: center; }
+    .nutrition-val { font-size: 1.75rem; font-weight: 800; color: var(--accent-green); }
+    .nutrition-lbl { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+    .guide-box { background: #1e293b; border: 1px solid var(--card-border); border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; }
+    .guide-box h3 { color: var(--accent-amber); margin-bottom: 0.75rem; font-size: 1.15rem; }
+    .guide-box ol { padding-left: 1.25rem; }
+    .guide-box li { margin-bottom: 0.65rem; font-size: 0.95rem; }
+    code { background: #0f172a; padding: 0.2rem 0.45rem; border-radius: 4px; color: var(--accent-blue); font-size: 0.9em; border: 1px solid #334155; }
+    
+    .schedule-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+    .file-pill { background: #0284c7; color: white; padding: 0.4rem 0.8rem; border-radius: 6px; font-weight: 600; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; }
+
+    .meal-card { background: #1e293b; border: 1px solid var(--card-border); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; }
+    .meal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #334155; }
+    .meal-badge { background: #10b981; color: #022c22; font-weight: 700; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.8rem; text-transform: uppercase; }
+
+    /* Collapsible Recipe Dropdown Styles */
+    details.recipe-drop {
+      margin-top: 0.5rem;
+      background: rgba(15, 23, 42, 0.7);
+      border: 1px solid #334155;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: all 0.2s ease;
+    }
+    details.recipe-drop[open] {
+      border-color: var(--accent-blue);
+      background: #0b1120;
+    }
+    details.recipe-drop summary {
+      padding: 0.45rem 0.65rem;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.82rem;
+      color: var(--accent-blue);
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      user-select: none;
+    }
+    details.recipe-drop summary::-webkit-details-marker {
+      display: none;
+    }
+    details.recipe-drop summary .toggle-label {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    details.recipe-drop summary .chevron {
+      transition: transform 0.2s ease;
+      font-size: 0.75rem;
+      color: var(--accent-blue);
+      display: inline-block;
+    }
+    details.recipe-drop[open] summary .chevron {
+      transform: rotate(90deg);
+    }
+    .recipe-content {
+      padding: 0.75rem 0.85rem 0.85rem 0.85rem;
+      border-top: 1px solid #1e293b;
+      font-size: 0.82rem;
+      line-height: 1.5;
+      color: #cbd5e1;
+    }
+    .recipe-content h4 {
+      color: var(--accent-amber);
+      font-size: 0.8rem;
+      margin-top: 0.4rem;
+      margin-bottom: 0.2rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .recipe-content ul, .recipe-content ol {
+      padding-left: 1.2rem;
+      margin-bottom: 0.4rem;
+    }
+    .recipe-content li {
+      margin-bottom: 0.2rem;
+    }
+    .recipe-tip {
+      background: rgba(56, 189, 248, 0.08);
+      border-left: 3px solid var(--accent-blue);
+      padding: 0.35rem 0.5rem;
+      border-radius: 0 4px 4px 0;
+      margin-top: 0.4rem;
+      font-size: 0.78rem;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>3-Day Full-Body Routine & Nutrition Plan</h1>
+        <div class="subtitle">Complete Calendar (Through Jan 2027) & Alternating 2-Week Meal Architecture</div>
+      </div>
+      <div class="profile-pill">
+        <div>Profile: <span>6'3" | 245 lbs | Age 40</span></div>
+        <div>Fast Window: <span>12:00 PM – 6:30 PM</span></div>
+      </div>
+    </header>
+
+    <div class="nutrition-banner">
+      <div class="nutrition-item">
+        <div class="nutrition-val">53 Events</div>
+        <div class="nutrition-lbl">In Calendar (.ics)</div>
+      </div>
+      <div class="nutrition-item">
+        <div class="nutrition-val">190 – 210g</div>
+        <div class="nutrition-lbl">Daily Protein Target</div>
+      </div>
+      <div class="nutrition-item">
+        <div class="nutrition-val">12 PM – 6:30 PM</div>
+        <div class="nutrition-lbl">Daily Eating Window</div>
+      </div>
+      <div class="nutrition-item">
+        <div class="nutrition-val">Tue / Thu</div>
+        <div class="nutrition-lbl">Rest / Drumming & Brisk Walk</div>
+      </div>
+    </div>
+
+    <!-- WORKOUT CARDS -->
+    <div class="grid-2">
+      <!-- WORKOUT A -->
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <div class="card-title">Workout A</div>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Squat & Posterior Chain Focus</div>
+          </div>
+          <span class="badge-a">Day A</span>
+        </div>
+        <div class="warmup-box">
+          <strong>Warm-Up Primer (3–5 min):</strong> World's Greatest Stretch (5/side), Deep Squat Hold (30–45s), Band Pull-Aparts (15–20 reps).
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>Exercise</th>
+              <th>Sets x Reps</th>
+              <th>Rest</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <span class="lift-name">1. Barbell Back Squat</span>
+                <span class="lift-note">2-3 ramp-up sets first; focus on depth & hip drive</span>
+              </td>
+              <td><span class="metric-badge">3 x 6–8</span></td>
+              <td>2–3m</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">2. Flat Barbell or DB Bench</span>
+                <span class="lift-note">1 feeler set; retract scapulae, 2s negative</span>
+              </td>
+              <td><span class="metric-badge">3 x 8–10</span></td>
+              <td>2m</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">3. Chest-Supported Row</span>
+                <span class="lift-note">Incline DB or T-Bar; protects lower back before RDLs</span>
+              </td>
+              <td><span class="metric-badge">3 x 8–10</span></td>
+              <td>90s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">4. Romanian Deadlift (RDL)</span>
+                <span class="lift-note">Heavy hinge; stretch hamstrings & load erectors</span>
+              </td>
+              <td><span class="metric-badge">3 x 8–10</span></td>
+              <td>90s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">5. Weighted 45° Back Extension</span>
+                <span class="lift-note">Direct lower back hypertrophy; squeeze glutes at top</span>
+              </td>
+              <td><span class="metric-badge">2–3 x 12–15</span></td>
+              <td>60–90s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">6. Hanging Knee Tuck / Raise</span>
+                <span class="lift-note">Tuck pelvis up to chest; decompresses lumbar spine</span>
+              </td>
+              <td><span class="metric-badge">3 x 10–15</span></td>
+              <td>60s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">7. Cable Face Pulls</span>
+                <span class="lift-note">High pulley to eye level; external rotation at peak</span>
+              </td>
+              <td><span class="metric-badge">3 x 15–20</span></td>
+              <td>60s</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- WORKOUT B -->
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <div class="card-title">Workout B</div>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Deadlift & Vertical Focus</div>
+          </div>
+          <span class="badge-b">Day B</span>
+        </div>
+        <div class="warmup-box">
+          <strong>Warm-Up Primer (3–5 min):</strong> World's Greatest Stretch (5/side), Deep Squat Hold (30–45s), Band Pull-Aparts (15–20 reps).
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>Exercise</th>
+              <th>Sets x Reps</th>
+              <th>Rest</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <span class="lift-name">1. Conventional Barbell Deadlift</span>
+                <span class="lift-note">2-3 ramp-up sets; pull dead stop; reset brace each rep</span>
+              </td>
+              <td><span class="metric-badge">3 x 5</span></td>
+              <td>2–3m</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">2. Standing Overhead Press</span>
+                <span class="lift-note">Barbell or DB; glutes tight, core locked</span>
+              </td>
+              <td><span class="metric-badge">3 x 6–8</span></td>
+              <td>2m</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">3. Neutral-Grip Lat Pulldown</span>
+                <span class="lift-note">Full stretch; elbow-friendly alternative to 245 lb pull-ups</span>
+              </td>
+              <td><span class="metric-badge">3 x 8–10</span></td>
+              <td>90s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">4. Incline DB Bench Press</span>
+                <span class="lift-note">30° angle; dedicated upper chest builder</span>
+              </td>
+              <td><span class="metric-badge">3 x 8–10</span></td>
+              <td>90s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">5. Leg Press or Bulgarian Split Squat</span>
+                <span class="lift-note">Quad pump with zero axial spinal compression</span>
+              </td>
+              <td><span class="metric-badge">3 x 10–12</span></td>
+              <td>90s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">6. Cable Face Pulls</span>
+                <span class="lift-note">Shoulder capsule health & rotator cuff longevity</span>
+              </td>
+              <td><span class="metric-badge">3 x 15–20</span></td>
+              <td>60s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">7. Hammer Curls</span>
+                <span class="lift-note">Controlled tempo; protects forearms for drumming days</span>
+              </td>
+              <td><span class="metric-badge">2 x 10–12</span></td>
+              <td>60s</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="lift-name">8. Decline or Cable Crunches</span>
+                <span class="lift-note">Focus on spinal flexion with 1-sec squeeze</span>
+              </td>
+              <td><span class="metric-badge">3 x 15–20</span></td>
+              <td>60s</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 2-WEEK ALTERNATING MEAL PLAN SECTION -->
+    <h2 style="font-size: 1.6rem; margin-bottom: 1rem; color: #fff;">🍽️ 2-Week Alternating Nutrition System (12:00 PM – 6:30 PM)</h2>
+    
+    <div class="grid-2">
+      <!-- WEEK 1 MEAL PLAN -->
+      <div class="meal-card">
+        <div class="meal-header">
+          <div>
+            <h3 style="color: var(--accent-blue);">Week 1: Menu Rotation A</h3>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Sausage & Beans, Baked Granola + Fresh Steaks & Salads</div>
+          </div>
+          <span class="meal-badge">Week A</span>
+        </div>
+        <table>
+          <thead>
+            <tr><th>Time</th><th>Meal</th><th>Protein</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="vertical-align: top;"><strong>12:00 PM</strong></td>
+              <td>
+                <span class="lift-name">Bulk Lunch: Sausage, Black Beans & Rice (1 of 5 Servings)</span>
+                <span class="lift-note">Sunday Batch (2.5 lbs sausage + 3 cans beans + 2.5 cups rice) &rarr; ~60g protein/container</span>
+                <details class="recipe-drop">
+                  <summary>
+                    <span class="toggle-label"><span class="chevron">▶</span> Cooking Instructions & Ingredients</span>
+                  </summary>
+                  <div class="recipe-content">
+                    <h4>Ingredients (5-Serving Sunday Batch)</h4>
+                    <ul>
+                      <li><strong>2.5 lbs (40 oz)</strong> homemade sausage links (sliced into coins)</li>
+                      <li><strong>3 cans (15 oz each)</strong> black beans, drained and rinsed</li>
+                      <li><strong>2.5 cups dry</strong> jasmine or basmati rice (cooked in bone broth)</li>
+                      <li><strong>1 yellow onion</strong> (diced) + <strong>4 cloves garlic</strong> (minced)</li>
+                      <li><strong>Seasonings:</strong> 1 tbsp ground cumin, 1 tbsp dried oregano, 2 bay leaves, salt & black pepper to taste</li>
+                    </ul>
+                    <h4>Step-by-Step Instructions</h4>
+                    <ol>
+                      <li><strong>Sear Sausage:</strong> In a large Dutch oven or pot over medium-high heat, brown sausage coins until caramelized (~8 min). Transfer sausage to a plate, leaving ~1 tbsp drippings in the pot.</li>
+                      <li><strong>Sauté Aromatics:</strong> Add diced onion and minced garlic to the pot. Sauté for 3 minutes until fragrant and translucent.</li>
+                      <li><strong>Cook Rice in Broth:</strong> Add 2.5 cups dry rice, 4.5 cups chicken or beef bone broth, cumin, oregano, and bay leaves. Bring to a rapid boil, cover with a tight lid, reduce heat to low, and simmer for 15 minutes.</li>
+                      <li><strong>Combine & Steam:</strong> Remove lid, discard bay leaves, and fold in the drained black beans and browned sausage. Cover and let sit off heat for 5 minutes to steam through.</li>
+                      <li><strong>Portion:</strong> Divide evenly across 5 glass meal-prep containers (~60g protein each). Refrigerate for Mon–Fri lunches. Reheat in microwave for 90–120 seconds.</li>
+                    </ol>
+                    <div class="recipe-tip">💡 <strong>Flavor Hack:</strong> Splash each container with fresh lime juice, chopped cilantro, or your favorite hot sauce after microwaving.</div>
+                  </div>
+                </details>
+              </td>
+              <td style="vertical-align: top;"><span class="metric-badge">~60g</span></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;"><strong>3:30 PM</strong></td>
+              <td>
+                <span class="lift-name">Bridge Snack: Baked PB Protein Granola Clusters</span>
+                <span class="lift-note">Sheet-pan baked clusters (oats, whey, peanut butter, bananas) — ~45g protein</span>
+                <details class="recipe-drop">
+                  <summary>
+                    <span class="toggle-label"><span class="chevron">▶</span> Baking Instructions & Ingredients</span>
+                  </summary>
+                  <div class="recipe-content">
+                    <h4>Ingredients (5-Day Batch)</h4>
+                    <ul>
+                      <li><strong>2.5 cups</strong> old-fashioned rolled oats</li>
+                      <li><strong>3 scoops</strong> vanilla or chocolate whey protein powder (~75g protein)</li>
+                      <li><strong>1/2 cup</strong> creamy natural peanut butter (melted slightly so it pours)</li>
+                      <li><strong>2 medium</strong> ripe bananas (mashed thoroughly into a smooth purée)</li>
+                      <li><strong>1/4 cup</strong> chia seeds or ground flaxseed + <strong>2 tbsp</strong> honey or maple syrup</li>
+                      <li><strong>1 tsp</strong> cinnamon + <strong>1/2 tsp</strong> sea salt + 2 tbsp water (if dough is too stiff)</li>
+                    </ul>
+                    <h4>Step-by-Step Instructions</h4>
+                    <ol>
+                      <li><strong>Preheat:</strong> Set oven to <strong>325°F (165°C)</strong>. Line a large rimmed baking sheet with parchment paper.</li>
+                      <li><strong>Wet Mix:</strong> In a large mixing bowl, whisk mashed bananas, melted peanut butter, honey, and cinnamon until smooth and creamy.</li>
+                      <li><strong>Fold Dry:</strong> Add oats, whey protein, seeds, and sea salt. Stir thoroughly with a stiff spatula until a thick, clumpy, cohesive dough forms.</li>
+                      <li><strong>Spread:</strong> Spread onto the baking sheet in rough 1/2-inch clusters, pressing slightly so they bind together.</li>
+                      <li><strong>Bake:</strong> Bake at 325°F for <strong>18–20 minutes</strong> until golden brown on the edges.</li>
+                      <li><strong>Cool Undisturbed:</strong> Let the sheet cool completely on the counter for <strong>35 minutes</strong>. Do not touch while warm! As it cools, the PB and caramelized sugars harden into crispy clusters.</li>
+                    </ol>
+                    <div class="recipe-tip">💡 <strong>Serving:</strong> Scoop 1 cup of clusters into a bowl, or sprinkle over 1 cup of non-fat Greek yogurt for a ~45–50g protein sundae.</div>
+                  </div>
+                </details>
+              </td>
+              <td style="vertical-align: top;"><span class="metric-badge">~45g</span></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;"><strong>6:15 PM</strong></td>
+              <td>
+                <span class="lift-name">Dinner: Loaded Chicken Quesadillas OR Steak & Salad</span>
+                <span class="lift-note">Lift Days: 2 Loaded Chicken Quesadillas | Rest Days: 8–10 oz Steak + Bagged Salad Kit</span>
+                <details class="recipe-drop">
+                  <summary>
+                    <span class="toggle-label"><span class="chevron">▶</span> Dinner Cooking Instructions</span>
+                  </summary>
+                  <div class="recipe-content">
+                    <h4>Option A: High-Protein Shredded Chicken Quesadillas (Lift Days)</h4>
+                    <ul>
+                      <li><strong>2 large</strong> low-carb / high-fiber tortillas (Mission Carb Balance / Extreme Wellness)</li>
+                      <li><strong>7 oz</strong> cooked shredded chicken breast (prepped in slow cooker with salsa)</li>
+                      <li><strong>1.5 oz</strong> shredded pepper jack or Mexican blend cheese</li>
+                      <li><strong>2 tbsp</strong> chunky salsa + <strong>3 tbsp</strong> plain non-fat Greek yogurt ("sour cream" sub)</li>
+                    </ul>
+                    <ol>
+                      <li>Heat a dry skillet over medium heat. Place one tortilla flat.</li>
+                      <li>Layer half the cheese, warm shredded chicken, and remaining cheese. Top with the second tortilla (or fold in half).</li>
+                      <li>Cook 3–4 minutes per side until the tortilla is golden, crispy, and the cheese is fully melted.</li>
+                      <li>Slice into wedges and serve with salsa and Greek yogurt for dipping (~65g protein).</li>
+                    </ol>
+                    <h4 style="margin-top: 0.6rem;">Option B: Cast-Iron Steak & Bagged Salad (Rest/Drumming Days)</h4>
+                    <ul>
+                      <li><strong>8–10 oz</strong> NY Strip, Top Sirloin, or Ribeye steak</li>
+                      <li><strong>1 full</strong> bagged salad kit (Caesar, Greek, or Southwest)</li>
+                      <li><strong>1 medium</strong> sweet potato + coarse salt, black pepper, 1 tsp olive oil</li>
+                    </ul>
+                    <ol>
+                      <li>Poke holes in sweet potato with a fork; microwave 5–6 minutes until soft.</li>
+                      <li>Pat steak dry and season aggressively with coarse salt and cracked black pepper.</li>
+                      <li>Heat cast-iron skillet on high heat until smoking. Add 1 tsp oil, sear steak 3–4 minutes per side for medium-rare (130°F internal).</li>
+                      <li>Rest steak on cutting board for 5 minutes before slicing against the grain. Toss salad kit and serve.</li>
+                    </ol>
+                  </div>
+                </details>
+              </td>
+              <td style="vertical-align: top;"><span class="metric-badge">~65–70g</span></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;"><strong>7:00 PM+</strong></td>
+              <td><span class="lift-name">Fasting & Hydration</span><span class="lift-note">Water, sparkling water, herbal tea. Empty stomach for deep sleep</span></td>
+              <td style="vertical-align: top;"><span class="metric-badge">0g</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- WEEK 2 MEAL PLAN -->
+      <div class="meal-card">
+        <div class="meal-header">
+          <div>
+            <h3 style="color: var(--accent-green);">Week 2: Menu Rotation B</h3>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Bulk Chili, Chicken Stew & Baked Protein Bars</div>
+          </div>
+          <span class="meal-badge" style="background: #0284c7; color: white;">Week B</span>
+        </div>
+        <table>
+          <thead>
+            <tr><th>Time</th><th>Meal</th><th>Protein</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="vertical-align: top;"><strong>12:00 PM</strong></td>
+              <td>
+                <span class="lift-name">Bulk Lunch: High-Protein Beef & Bean Chili (1 of 5 Servings)</span>
+                <span class="lift-note">Sunday Batch (2.5–3 lbs 90/10 beef + 4 cans beans + tomatoes) &rarr; ~62g protein/container</span>
+                <details class="recipe-drop">
+                  <summary>
+                    <span class="toggle-label"><span class="chevron">▶</span> Cooking Instructions & Ingredients</span>
+                  </summary>
+                  <div class="recipe-content">
+                    <h4>Ingredients (5-Serving Sunday Batch)</h4>
+                    <ul>
+                      <li><strong>2.5 to 3 lbs</strong> 90/10 lean ground beef</li>
+                      <li><strong>2 cans (15 oz each)</strong> black beans + <strong>2 cans</strong> dark red kidney beans (drained)</li>
+                      <li><strong>One 28 oz can</strong> crushed tomatoes + <strong>one 14 oz can</strong> fire-roasted diced tomatoes</li>
+                      <li><strong>2 tbsp</strong> tomato paste + <strong>1.5 cups</strong> beef bone broth</li>
+                      <li><strong>1 yellow onion</strong> (diced) + <strong>4 cloves garlic</strong> (minced)</li>
+                      <li><strong>Chili Spice Blend:</strong> 3 tbsp chili powder, 1 tbsp ground cumin, 1 tbsp smoked paprika, 1 tsp garlic powder, 1 tsp onion powder, salt & pepper to taste</li>
+                    </ul>
+                    <h4>Step-by-Step Instructions</h4>
+                    <ol>
+                      <li><strong>Brown the Beef:</strong> In a large stockpot over medium-high heat, brown the ground beef, breaking it into small crumbles (~8–10 min). Drain excess fat if needed.</li>
+                      <li><strong>Bloom Spices:</strong> Stir in the diced onion, minced garlic, tomato paste, and chili spice blend. Cook for 2 minutes until aromatic.</li>
+                      <li><strong>Add Liquids & Beans:</strong> Pour in crushed tomatoes, diced tomatoes, bone broth, and all drained beans. Stir thoroughly.</li>
+                      <li><strong>Simmer:</strong> Bring to a boil, then reduce heat to low, cover with a lid, and simmer gently for <strong>30 minutes</strong>, stirring occasionally so the bottom doesn't stick.</li>
+                      <li><strong>Portion:</strong> Ladle evenly into 5 glass meal-prep containers (~62g protein each). Keep refrigerated for Mon–Fri. Reheat for 2 minutes in the microwave.</li>
+                    </ol>
+                    <div class="recipe-tip">💡 <strong>Serving Idea:</strong> Serve over 1/2 cup jasmine rice or with 1 warm low-carb tortilla for dipping.</div>
+                  </div>
+                </details>
+              </td>
+              <td style="vertical-align: top;"><span class="metric-badge">~62g</span></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;"><strong>3:30 PM</strong></td>
+              <td>
+                <span class="lift-name">Bridge Snack: Baked Chewy PB Oat Protein Bars (1 of 5 Bars)</span>
+                <span class="lift-note">Sunday Batch (pressed into 8x8 pan, sliced into 5 bars) — ~42g protein/bar</span>
+                <details class="recipe-drop">
+                  <summary>
+                    <span class="toggle-label"><span class="chevron">▶</span> Baking Instructions & Ingredients</span>
+                  </summary>
+                  <div class="recipe-content">
+                    <h4>Ingredients (5-Bar Batch)</h4>
+                    <ul>
+                      <li><strong>2.5 cups</strong> old-fashioned rolled oats</li>
+                      <li><strong>3.5 scoops</strong> vanilla or chocolate whey protein powder (~85g protein)</li>
+                      <li><strong>1/2 cup</strong> creamy natural peanut butter (melted slightly)</li>
+                      <li><strong>2 medium</strong> ripe bananas (mashed thoroughly into smooth purée)</li>
+                      <li><strong>1/4 cup</strong> chia or flax seeds + <strong>2 tbsp</strong> honey</li>
+                      <li><strong>1 tsp</strong> cinnamon + <strong>1/2 tsp</strong> sea salt + 3 tbsp almond milk or water</li>
+                    </ul>
+                    <h4>Step-by-Step Instructions</h4>
+                    <ol>
+                      <li><strong>Prep Pan:</strong> Preheat oven to <strong>325°F (165°C)</strong>. Line an 8x8-inch baking dish with parchment paper with an overhang.</li>
+                      <li><strong>Mix:</strong> Whisk mashed bananas, melted peanut butter, honey, and cinnamon. Fold in oats, whey protein, seeds, salt, and liquid. Mix into a thick, uniform dough.</li>
+                      <li><strong>Press Firmly:</strong> Transfer dough to the pan. Press down firmly with the back of a spatula or flat glass until smooth and tightly packed.</li>
+                      <li><strong>Bake:</strong> Bake at 325°F for <strong>18–20 minutes</strong> until golden on the edges.</li>
+                      <li><strong>Cool & Slice:</strong> Cool in the pan completely (or chill in the fridge for 30 minutes for a dense chew). Lift out and slice into 5 large bars. Wrap individually for grab-and-go snacks.</li>
+                    </ol>
+                    <div class="recipe-tip">💡 <strong>Quick Pairing:</strong> Eat 1 bar at 3:30 PM with a tall glass of ice water or a crisp apple. Tastes like a bakery flapjack with ~42g protein!</div>
+                  </div>
+                </details>
+              </td>
+              <td style="vertical-align: top;"><span class="metric-badge">~42g</span></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;"><strong>6:15 PM</strong></td>
+              <td>
+                <span class="lift-name">Dinner: Hearty Stew OR Steak & Salad</span>
+                <span class="lift-note">Lift Days: Chicken & Veggie Stew (bone broth) + 2 eggs | Rest Days: 8–10 oz Steak + Salad</span>
+                <details class="recipe-drop">
+                  <summary>
+                    <span class="toggle-label"><span class="chevron">▶</span> Dinner Cooking Instructions</span>
+                  </summary>
+                  <div class="recipe-content">
+                    <h4>Option A: Hearty Chicken & Root Veggie Stew (Bulk 4–5 Serving Batch)</h4>
+                    <ul>
+                      <li><strong>2.5 to 3 lbs</strong> chicken breasts or boneless skinless chicken thighs (thighs stay ultra-moist in soups)</li>
+                      <li><strong>Two 32-oz cartons (8 cups)</strong> store-bought chicken broth OR bone broth (Swanson, Pacific, Trader Joe's, Kettle & Fire)</li>
+                      <li><strong>1.5 lbs</strong> Yukon Gold or Baby Red potatoes (cut into 1-inch chunks; waxy potatoes hold up without getting mushy)</li>
+                      <li><strong>4 large carrots</strong> (sliced thick) + <strong>4 stalks celery</strong> (sliced) + <strong>1 yellow onion</strong> (diced) + <strong>4 cloves garlic</strong></li>
+                      <li><strong>Seasonings:</strong> 1 tbsp Italian seasoning, 1 tsp dried thyme, 2 bay leaves, coarse salt & black pepper</li>
+                    </ul>
+                    <ol>
+                      <li><strong>Brown the Chicken:</strong> In a large stockpot over medium-high heat with 1 tbsp olive oil, sear chicken pieces for 5–6 min until golden. Transfer chicken to a plate.</li>
+                      <li><strong>Sauté Aromatics:</strong> In the same pot, cook the onion, garlic, carrots, and celery for 3–4 minutes until fragrant.</li>
+                      <li><strong>Simmer Broth & Potatoes:</strong> Pour in both 32-oz cartons of store-bought broth. Add potato chunks, bay leaves, thyme, salt, and pepper. Bring to a boil, then reduce heat to low and simmer for 15 minutes.</li>
+                      <li><strong>Combine & Finish:</strong> Return chicken to the pot. Simmer gently for 10–12 minutes until potatoes are fork-tender and chicken is cooked through. Discard bay leaves.</li>
+                      <li><strong>Portion:</strong> Ladle evenly into 4–5 large glass containers (~55–65g protein each). Keeps in the fridge all week. Reheats in 2 minutes in the microwave.</li>
+                    </ol>
+                    <div class="recipe-tip">💡 <strong>Broth vs. Bone Broth:</strong> Standard store-bought chicken broth works great. But if you buy store-bought <em>Chicken Bone Broth</em> (sold in the same 32-oz cartons), the liquid adds an extra ~75–80g of protein and natural collagen for joint health at 40!</div>
+                    <h4 style="margin-top: 0.6rem;">Option B: Cast-Iron Steak & Loaded Salad (Rest/Drumming Days)</h4>
+                    <ul>
+                      <li><strong>8–10 oz</strong> Sirloin, Strip, or Ribeye steak</li>
+                      <li><strong>1 full</strong> bagged salad kit (Caesar, Greek, or Bacon Ranch)</li>
+                      <li><strong>1 cup</strong> roasted baby potatoes or sweet potato</li>
+                    </ul>
+                    <ol>
+                      <li>Heavily season steak with kosher salt and coarse black pepper.</li>
+                      <li>Sear in smoking cast iron skillet for 3–4 minutes per side until crust forms.</li>
+                      <li>Rest 5 minutes, slice against grain, and serve with freshly tossed bagged salad kit.</li>
+                    </ol>
+                  </div>
+                </details>
+              </td>
+              <td style="vertical-align: top;"><span class="metric-badge">~65–70g</span></td>
+            </tr>
+            <tr>
+              <td style="vertical-align: top;"><strong>7:00 PM+</strong></td>
+              <td><span class="lift-name">Fasting & Hydration</span><span class="lift-note">Water, herbal tea. Complete digestive rest before bed</span></td>
+              <td style="vertical-align: top;"><span class="metric-badge">0g</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- GROCERY LISTS SECTION -->
+    <h2 style="font-size: 1.6rem; margin-top: 2rem; margin-bottom: 1rem; color: #fff;">🛒 Weekly Grocery Shopping Lists</h2>
+    <div class="grid-2">
+      <!-- WEEK A GROCERY LIST -->
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <div class="card-title">Week A Grocery List</div>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Sausage & Beans, Baked Granola, Steaks & Quesadillas</div>
+          </div>
+          <span class="badge-a">Week A</span>
+        </div>
+        <div style="font-size: 0.88rem; line-height: 1.6;">
+          <h4 style="color: var(--accent-amber); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🥩 Meat & Poultry</h4>
+          <ul style="padding-left: 1.25rem; margin-bottom: 0.75rem;">
+            <li><strong>2.5 lbs</strong> homemade sausage meat (links or bulk)</li>
+            <li><strong>3 lbs</strong> chicken breasts (for slow-cooker salsa shred / quesadillas)</li>
+            <li><strong>2–3 steaks (24–30 oz total)</strong> NY Strip, Top Sirloin, or Ribeye</li>
+            <li><strong>1 dozen</strong> large eggs</li>
+          </ul>
+
+          <h4 style="color: var(--accent-green); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🥦 Produce & Fresh</h4>
+          <ul style="padding-left: 1.25rem; margin-bottom: 0.75rem;">
+            <li><strong>3–4 ripe bananas</strong> (for baked granola clusters)</li>
+            <li><strong>2 yellow onions</strong> + <strong>1 head garlic</strong></li>
+            <li><strong>1 bunch fresh cilantro</strong> + <strong>2 limes</strong></li>
+            <li><strong>2–3 medium sweet potatoes</strong></li>
+            <li><strong>2–3 bagged salad kits</strong> (Caesar, Greek, or Southwest)</li>
+            <li><strong>Bag of apples</strong> (Honeycrisp, Fuji)</li>
+          </ul>
+
+          <h4 style="color: var(--accent-blue); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🥫 Canned & Broth</h4>
+          <ul style="padding-left: 1.25rem; margin-bottom: 0.75rem;">
+            <li><strong>3 cans (15 oz each)</strong> black beans</li>
+            <li><strong>1 jar</strong> salsa (for slow cooker chicken)</li>
+            <li><strong>One 32-oz carton</strong> chicken or beef bone broth (for cooking rice)</li>
+          </ul>
+
+          <h4 style="color: var(--accent-purple); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🧀 Dairy, Refrigerated & Pantry</h4>
+          <ul style="padding-left: 1.25rem;">
+            <li><strong>1 pack (12 ct)</strong> string cheese (part-skim mozzarella)</li>
+            <li><strong>1 bag</strong> shredded pepper jack or Mexican blend cheese</li>
+            <li><strong>One 32-oz tub</strong> plain non-fat Greek yogurt</li>
+            <li><strong>1 pack</strong> low-carb / high-fiber tortillas (Mission Carb Balance)</li>
+            <li><strong>Rolled oats</strong> + <strong>natural peanut butter</strong> + <strong>chia/flax seeds</strong> + <strong>honey</strong></li>
+            <li><strong>Dry-roasted almonds or pistachios</strong></li>
+            <li><strong>Whey protein powder</strong> (Vanilla or Chocolate)</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- WEEK B GROCERY LIST -->
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <div class="card-title">Week B Grocery List</div>
+            <div style="font-size: 0.85rem; color: var(--text-muted);">Bulk Beef Chili, Chicken Veggie Stew & Protein Bars</div>
+          </div>
+          <span class="badge-b" style="background: #0284c7; color: white;">Week B</span>
+        </div>
+        <div style="font-size: 0.88rem; line-height: 1.6;">
+          <h4 style="color: var(--accent-amber); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🥩 Meat & Poultry</h4>
+          <ul style="padding-left: 1.25rem; margin-bottom: 0.75rem;">
+            <li><strong>2.5 to 3.0 lbs</strong> 90/10 or 93/7 lean ground beef (for chili)</li>
+            <li><strong>2.5 to 3.0 lbs</strong> chicken breasts or boneless chicken thighs (for stew)</li>
+            <li><strong>2–3 steaks (24–30 oz total)</strong> Sirloin or Strip (for rest day dinners)</li>
+            <li><strong>1 dozen</strong> large eggs</li>
+          </ul>
+
+          <h4 style="color: var(--accent-green); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🥦 Produce & Fresh</h4>
+          <ul style="padding-left: 1.25rem; margin-bottom: 0.75rem;">
+            <li><strong>1.5 lbs</strong> Yukon Gold or Baby Red potatoes (waxy; won't get mushy)</li>
+            <li><strong>1 bunch large carrots</strong> + <strong>1 bunch celery</strong></li>
+            <li><strong>2 large yellow onions</strong> + <strong>1 head garlic</strong></li>
+            <li><strong>2–3 ripe bananas</strong> (for baked protein bars)</li>
+            <li><strong>Bag of apples</strong> (Honeycrisp, Fuji, or Pink Lady)</li>
+            <li><strong>2–3 bagged salad kits</strong></li>
+          </ul>
+
+          <h4 style="color: var(--accent-blue); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🥫 Canned & Broth</h4>
+          <ul style="padding-left: 1.25rem; margin-bottom: 0.75rem;">
+            <li><strong>Two 32-oz cartons</strong> chicken bone broth (Pacific, Swanson, or Kettle & Fire)</li>
+            <li><strong>2 cans (15 oz)</strong> black beans + <strong>2 cans</strong> dark red kidney beans</li>
+            <li><strong>One 28-oz can</strong> crushed tomatoes + <strong>one 14-oz can</strong> diced fire-roasted tomatoes</li>
+            <li><strong>1 small can</strong> tomato paste</li>
+          </ul>
+
+          <h4 style="color: var(--accent-purple); margin-top: 0.5rem; text-transform: uppercase; font-size: 0.8rem;">🧀 Dairy, Refrigerated & Pantry</h4>
+          <ul style="padding-left: 1.25rem;">
+            <li><strong>1 pack (12 ct)</strong> string cheese</li>
+            <li><strong>Rolled oats</strong> + <strong>natural creamy peanut butter</strong> + <strong>chia/flax seeds</strong> + <strong>honey</strong></li>
+            <li><strong>Bag of roasted unsalted almonds or pistachios</strong></li>
+            <li><strong>Spices:</strong> Chili powder, ground cumin, smoked paprika, dried thyme, Italian seasoning, bay leaves</li>
+            <li><strong>Whey protein powder</strong></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- MOBILE & QUICK ACCESS GUIDE -->
+    <div class="guide-box" style="margin-top: 2rem;">
+      <h3 style="color: var(--accent-blue);">📱 How to Access This Dashboard Anywhere (Gym & Kitchen)</h3>
+      <ol>
+        <li><strong>On Your Windows PC:</strong> A 1-click shortcut named <strong>"Workout & Meal Plan"</strong> is now sitting directly on your Windows Desktop. Double-click it anytime to open this page instantly!</li>
+        <li><strong>Bookmark in Chrome:</strong> Press <code>Ctrl + D</code> right now in your browser to pin this page to your bookmarks bar.</li>
+        <li><strong>On Your Phone (In the Gym or Grocery Store):</strong>
+          <ul style="margin-top: 0.35rem; padding-left: 1.25rem;">
+            <li><strong>Option A (Save as PDF):</strong> Press <code>Ctrl + P</code> &rarr; Change destination to <em>"Save as PDF"</em> &rarr; Save it to your Google Drive or email it to yourself. You can open the PDF on your phone anytime, even with zero cell service at the gym!</li>
+            <li><strong>Option B (Google Drive / Keep):</strong> Drag <code>workout_dashboard.html</code> into <a href="https://drive.google.com" target="_blank" style="color: var(--accent-blue); text-decoration: underline;">Google Drive</a>. On your phone, tap the file in the Google Drive app to view it.</li>
+          </ul>
+        </li>
+      </ol>
+    </div>
+  </div>
+</body>
+</html>
